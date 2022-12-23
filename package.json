@@ -1,0 +1,24 @@
+{
+  "name": "checkStream",
+  "version": "1.0.0",
+  "description": "Takes an RTSP url as a parameter then uses ffprobe to validate an active stream is coming from URL.",
+  "main": "checkStream.js",
+  "scripts": {
+    "test": "no test"
+  },
+  "bin": {
+    "check-stream": "checkStream.js"
+  },
+  "keywords": [
+    "checkStream",
+    "rtsp",
+    "rtsp validator",
+    "rtsp checker",
+    "verify rtsp"
+  ],
+  "author": "Rich Olson",
+  "license": "MIT",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  }
+}
