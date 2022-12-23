@@ -47,7 +47,7 @@ async function checkStream(url) {
     setTimeout(() => {
       // If the timeout is reached, reject the Promise with an error
       reject(new Error('Timed out'));
-    }, 15000);
+    }, 20000);
   });
 }
 
