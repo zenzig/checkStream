@@ -18,7 +18,7 @@ $ npm i @zenzig/checkstream
 ## Usage
 
 ```
-const checkStream = require('checkStream');
+const checkStream = require('checkstream');
 
 async function main() {
   try {
