@@ -1,5 +1,5 @@
 // Import the checkStream function from the checkStream module
-const checkStream = require('./checkStream'); 
+const checkStream = require('checkStream'); 
 async function main() {
   try {
     // Call the checkStream function with a given RTSP URL and store the result in a variable
