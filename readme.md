@@ -5,7 +5,7 @@
 checkStream is an async function that determines if an RTSP stream is running by using the ffprobe command to check for codec and duration information.
 
 ## Installation
-To use checkStream, you will need to have ffmpeg installed on your system.
+To use checkStream, you will need to have ffprobe installed on your system.
 
 ## Usage
 ```
