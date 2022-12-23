@@ -22,7 +22,7 @@ const checkStream = require('checkstream');
 
 async function main() {
   try {
-    const result = await checkStream('rtsp://myStreamDomain.com:554/profile2/media.smp');
+    const result = await checkStream('rtsp://demo:demo@ipvmdemo.dyndns.org:5541/onvif-media/media.amp?profile=profile_1_h264&sessiontimeout=60&streamtype=unicast');
     console.log(result);
   } catch (error) {
     console.error(error);
