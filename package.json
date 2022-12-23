@@ -16,6 +16,7 @@
   ],
   "author": "Rich Olson",
   "license": "MIT",
+  "repository": "zenzig/checkStream",
   "dependencies": {
     "child_process": "^1.0.2"
   }
