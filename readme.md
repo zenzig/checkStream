@@ -1,5 +1,6 @@
 # checkStream
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zenzig/checkStream?style=plastic)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/zenzig/checkStream?color=3ded25&style=plastic)
 
 checkStream is an async function that determines if an RTSP stream is running by using the ffprobe command to check for codec and duration information.
 
