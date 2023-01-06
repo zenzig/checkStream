@@ -8,7 +8,7 @@ checkStream is an async function that determines if an RTSP stream is running by
 
 ## Installation
 
-To use checkStream, you will need to have nodejs and ffprobe installed on your system.
+To use checkStream you must have nodejs and ffprobe installed on your system.
 
 ## NPM
 
